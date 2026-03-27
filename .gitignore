@@ -1,6 +1,0 @@
-echo ".terraform/
-*.tfstate
-*.tfstate.*
-*.tfvars
-*.backup
-*.exe" > .gitignore
